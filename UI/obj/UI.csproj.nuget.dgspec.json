@@ -1,0 +1,243 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aykuty\\Desktop\\Rent A Car\\UI\\UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aykuty\\Desktop\\Rent A Car\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\aykuty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aykuty\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\aykuty\\Desktop\\Rent A Car\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\aykuty\\Desktop\\Rent A Car\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aykuty\\Desktop\\Rent A Car\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\aykuty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aykuty\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\aykuty\\Desktop\\Rent A Car\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aykuty\\Desktop\\Rent A Car\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\aykuty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aykuty\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aykuty\\Desktop\\Rent A Car\\UI\\UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\UI\\UI.csproj",
+        "projectName": "UI",
+        "projectPath": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\UI\\UI.csproj",
+        "packagesPath": "C:\\Users\\aykuty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aykuty\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\aykuty\\Desktop\\Rent A Car\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\Business\\Business.csproj"
+              },
+              "C:\\Users\\aykuty\\Desktop\\Rent A Car\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\aykuty\\Desktop\\Rent A Car\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\aykuty\\Desktop\\Rent A Car\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

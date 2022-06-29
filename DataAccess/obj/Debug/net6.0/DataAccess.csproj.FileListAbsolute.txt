@@ -1,0 +1,15 @@
+C:\Users\aykuty\Desktop\Rent A Car\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\aykuty\Desktop\Rent A Car\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\aykuty\Desktop\Rent A Car\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\aykuty\Desktop\Rent A Car\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\aykuty\Desktop\Rent A Car\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\aykuty\Desktop\Rent A Car\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\aykuty\Desktop\Rent A Car\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aykuty\Desktop\Rent A Car\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\aykuty\Desktop\Rent A Car\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\aykuty\Desktop\Rent A Car\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aykuty\Desktop\Rent A Car\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\aykuty\Desktop\Rent A Car\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\aykuty\Desktop\Rent A Car\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\aykuty\Desktop\Rent A Car\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\aykuty\Desktop\Rent A Car\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
